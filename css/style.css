@@ -157,6 +157,8 @@ html{
 }
 
 #clients img{
+    z-index: -1;
+    position: relative;
     height: 124px;
 }
 
@@ -176,6 +178,8 @@ html{
 }
 
 #contact-box{
+    z-index: -1;
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -193,7 +197,7 @@ html{
 
 #contact-box form{
     width: 40%;
-
+    
 }
 #contact-box label{
     width: 40%;
