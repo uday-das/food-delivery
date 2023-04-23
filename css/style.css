@@ -66,12 +66,10 @@ html{
 }
 
 #navbar ul li a:hover{
-
     color: black;
     background-color: #baa400;
     transform: scale(1.1); 
     box-shadow: 0 0 10px rgba(0,0,0,0.2); 
-
 }
 
 /* Home Section */
@@ -107,7 +105,6 @@ html{
     text-align: center;
     font-family: 'Kreon', serif;
 }
-
 
 /* Services Section */
 #services{
